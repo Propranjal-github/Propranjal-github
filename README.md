@@ -71,9 +71,9 @@ I’m a B.Tech CSE student at **IIIT Naya Raipur**, passionate about engineering
 
 ## 📊 GitHub Statistics
 
-[![Pranjal’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Propranjal-github\&show_icons=true\&theme=radical)](https://github.com/Propranjal-github)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Propranjal-github\&layout=compact\&theme=radical)](https://github.com/Propranjal-github)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Propranjal-github\&theme=radical)](https://github.com/Propranjal-github)
+[![Pranjal’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Propranjal-github&show_icons=true&theme=radical)](https://github.com/Propranjal-github)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Propranjal-github&layout=compact&theme=radical)](https://github.com/Propranjal-github)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Propranjal-github&theme=radical)](https://github.com/Propranjal-github)
 
 ---
 
